@@ -4,4 +4,14 @@ li{
 
 h1{
     font-size: 50px;
+    border-color: yellow;
+    border-width: 8px;
+    border-style: solid;
+    border: 2px dashed orange;
+}
+
+body{
+    background-image: url('https://digwallpapers.com/wallpapers/full/b/7/e/118691-1920x1080-yuri-gagarin-background-desktop-hd.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
